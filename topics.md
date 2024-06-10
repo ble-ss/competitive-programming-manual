@@ -15,11 +15,11 @@
 
 # ALGORITHMS
 
-1. Sorting and Searching
+## Sorting and Searching
 - Quick Sort, Merge Sort, Heap Sort, Counting Sort, Radix Sort
 - Binary Search, Ternary Search
 
-2. Dynamic Programming
+## Dynamic Programming
 - Knapsack Problem
 - Longest Increasing Subsequence
 - Longest Common Subsequence
@@ -28,7 +28,7 @@
 - DP on Trees
 - DP with Bitmasks
 
-3. Graph Algorithms
+## Graph Algorithms
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 - Dijkstra’s Algorithm
@@ -40,7 +40,7 @@
 - Network Flow (Ford-Fulkerson, Edmonds-Karp, Dinic’s Algorithm)
 - Bipartite Graph Check and Matching
 
-4. Number Theory
+## Number Theory
 - Prime Numbers and Sieve of Eratosthenes
 - Greatest Common Divisor (GCD) and Least Common Multiple (LCM)
 - Modular Arithmetic
@@ -49,7 +49,7 @@
 - Extended Euclidean Algorithm
 - Chinese Remainder Theorem
 
-5. Geometry
+## Geometry
 - Line Intersection
 - Convex Hull
 - Closest Pair of Points
@@ -57,21 +57,21 @@
 - Point in Polygon
 - Sweep Line Algorithms
 
-6. String Algorithms
+## String Algorithms
 - String Searching (KMP, Rabin-Karp)
 - Z Algorithm
 - Suffix Arrays and Trees
 - Trie and Aho-Corasick Algorithm
 - Longest Common Substring/Subsequence
 
-7. Combinatorics
+## Combinatorics
 - Permutations and Combinations
 - Binomial Coefficients
 - Inclusion-Exclusion Principle
 - Pigeonhole Principle
 - Catalan Numbers
 
-8. Miscellaneous Algorithms
+## Miscellaneous Algorithms
 - Bit Manipulation
 - Randomized Algorithms
 - Backtracking
